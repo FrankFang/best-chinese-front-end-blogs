@@ -23,7 +23,6 @@
 + [屈光宇/JerryQu](https://imququ.com/archives.html)（360）
 + [justjavac/迷渡](http://justjavac.com/)（天津维基科技）
 + [勾三股四/赵锦江](http://jiongks.name/)（淘宝）
-+ [蒋宇捷](http://blog.csdn.net/hfahe)（前百度、腾讯）
 + [蔡宝坚](http://caibaojian.com/)
 + [jinlong/Alon](http://jinlong.github.io/)（360）
 + [余廷钊](https://github.com/yutingzhao1991/blog/issues?q=is%3Aissue+is%3Aopen+sort%3Acreated-desc)（爱奇艺）
