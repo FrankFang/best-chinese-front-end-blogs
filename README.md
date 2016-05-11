@@ -1,6 +1,6 @@
 # best-chinese-front-end-blogs
 
-[收集优质的中文前端博客](http://iwritejs.com/best-front-end-blogs/)
+收集优质的中文前端博客（[原帖](http://iwritejs.com/best-front-end-blogs/)）
 
 
 **个人**
@@ -60,3 +60,7 @@
 2. 不追潮流，React 火就天天写 React 入门、学习笔记，这样的博客就免了吧。
 3. 关注于解决问题，专注于更透彻的理解 Web 开发。
 4. 欢迎 PR
+
+# 代办
+
++ 更新监控工具，一旦一段时间内不更新，就考虑下掉链接。
