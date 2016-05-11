@@ -29,6 +29,7 @@
 + [hacke2/蛋总](http://www.hacke2.cn/posts/)（阿里巴巴）
 + [阿烈](http://www.baidufe.com/)（美丽说）
 + [局中人](https://www.bh-lay.com/blog/)（百度上海）
++ [李亚飞](http://yafeilee.me) (深圳自由职业)
 
 
 **团队**
