@@ -16,6 +16,9 @@
     + [《jQuery 为什么优秀兼谈库与框架的设计》](https://github.com/lifesinger/blog/issues/114)
     + [《阿里前端的困局与突围》](https://github.com/lifesinger/blog/issues/141)
 + [贺师俊/Hax](https://www.zhihu.com/people/he-shi-jun/answers)（百姓网）
+    + [《JavaScript — The World’s Best Programming Language》](http://johnhax.net/2015/js-the-best/)
+    + [《参加第十届D2前端技术论坛，你有什么收获？》](https://www.zhihu.com/question/38637676/answer/77889487)
+    + [《jQuery会过时吗？》](https://www.zhihu.com/question/34892985/answer/60466608)
 + [司徒正美](http://www.cnblogs.com/rubylouvre/)（去哪儿）
 + [PING4GOD](http://pinggod.com/)（美团）
 + [题叶](https://segmentfault.com/u/jiyinyiyong/articles)（Teambition）
