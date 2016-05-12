@@ -5,6 +5,9 @@
 **个人**
 
 + [阮一峰的网络日志](http://www.ruanyifeng.com/blog/javascript/)（蚂蚁金服）
+    + [《读懂 ECMAScript 规格》](http://www.ruanyifeng.com/blog/2015/11/ecmascript-specification.html)
+    + [《图解 Monad》](http://www.ruanyifeng.com/blog/2015/07/monad.html)
+    + [《为什么Lisp语言如此先进？（译文）》](http://www.ruanyifeng.com/blog/2010/10/why_lisp_is_superior.html)
 + [张鑫旭](http://www.zhangxinxu.com/wordpress/)（腾讯）
 + [玉伯也叫射雕](https://github.com/lifesinger/blog/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)（蚂蚁金服）
 + [贺师俊/Hax](https://www.zhihu.com/people/he-shi-jun/answers)（百姓网）
