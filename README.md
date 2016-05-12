@@ -12,6 +12,9 @@
     + [《基于原生HTML的UI组件开发》](http://www.zhangxinxu.com/wordpress/2016/01/development-of-ui-components-based-on-native-html/) 
     + [《CSS深入理解vertical-align和line-height的基友关系》](http://www.zhangxinxu.com/wordpress/2015/08/css-deep-understand-vertical-align-and-line-height/)
 + [玉伯也叫射雕](https://github.com/lifesinger/blog/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)（蚂蚁金服）
+    + [《Web 研发模式演变》](https://github.com/lifesinger/blog/issues/184)
+    + [《jQuery 为什么优秀兼谈库与框架的设计》](https://github.com/lifesinger/blog/issues/114)
+    + [《阿里前端的困局与突围》](https://github.com/lifesinger/blog/issues/141)
 + [贺师俊/Hax](https://www.zhihu.com/people/he-shi-jun/answers)（百姓网）
 + [司徒正美](http://www.cnblogs.com/rubylouvre/)（去哪儿）
 + [PING4GOD](http://pinggod.com/)（美团）
