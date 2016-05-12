@@ -9,6 +9,8 @@
     + [《图解 Monad》](http://www.ruanyifeng.com/blog/2015/07/monad.html)
     + [《为什么Lisp语言如此先进？（译文）》](http://www.ruanyifeng.com/blog/2010/10/why_lisp_is_superior.html)
 + [张鑫旭](http://www.zhangxinxu.com/wordpress/)（腾讯）
+    + [《基于原生HTML的UI组件开发》](http://www.zhangxinxu.com/wordpress/2016/01/development-of-ui-components-based-on-native-html/) 
+    + [《CSS深入理解vertical-align和line-height的基友关系》](http://www.zhangxinxu.com/wordpress/2015/08/css-deep-understand-vertical-align-and-line-height/)
 + [玉伯也叫射雕](https://github.com/lifesinger/blog/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)（蚂蚁金服）
 + [贺师俊/Hax](https://www.zhihu.com/people/he-shi-jun/answers)（百姓网）
 + [司徒正美](http://www.cnblogs.com/rubylouvre/)（去哪儿）
