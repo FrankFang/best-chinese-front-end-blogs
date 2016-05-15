@@ -23,6 +23,8 @@
     + [《为什么虚拟DOM更优胜一筹》](http://www.cnblogs.com/rubylouvre/p/5012458.html) 
     + [《迷你MVVM框架avalon在兼容旧式IE做的努力》](http://www.cnblogs.com/rubylouvre/p/3598133.html)
 + [PING4GOD](http://pinggod.com/)（美团）
+    + [《Math.random()》](http://pinggod.com/2016/Math-random/)
+    + [《React 组件的生命周期》](http://pinggod.com/2015/React-%E7%BB%84%E4%BB%B6%E7%9A%84%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/)
 + [题叶](https://segmentfault.com/u/jiyinyiyong/articles)（Teambition）
 + [寸志](https://www.zhihu.com/people/stein.cun/posts)（陆金所）
 + [张云龙](https://github.com/fouber/blog)（UC） 
