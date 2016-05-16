@@ -43,6 +43,7 @@
     + [《程序员如何艺术的提升技术、影响力&赚钱》](https://www.phodal.com/blog/how-to-make-money-and-improve-impact/)  
     + [《程序员怎样才能写出一篇好的博客或者技术文章》](https://www.phodal.com/blog/programmer-how-to-write-a-good-article/)
 + [宅居](http://otakustay.com/)（百度）
+    + [《使用ES6进行开发的思考》](http://otakustay.com/es6-develop-overview/) 
 + [ytzong](http://www.99css.com/)（前腾讯）
 + [愚人码头 ](http://top.css88.com/)（浙江搜道网络技术有限公司）
 + [Phodal Huang](https://www.phodal.com/)（ThoughtWorks）
