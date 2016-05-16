@@ -38,7 +38,6 @@
 + [徐飞/民工精髓](https://github.com/xufei/blog)（苏宁云商）
     + [《2015前端组件化框架之路》](https://github.com/xufei/blog/issues/19) 
     + [《未来Web应用的前端技术选型畅想》](https://github.com/xufei/blog/issues/24)
-+ [Cat Chen](https://www.zhihu.com/people/catchen/answers)（Facebook）
 + [黄峰达](https://github.com/phodal/articles/issues)（ThoughtWorks）
     + [《程序员如何批量生产idea》](https://www.phodal.com/blog/how-to-create-ideas/)  
     + [《程序员如何艺术的提升技术、影响力&赚钱》](https://www.phodal.com/blog/how-to-make-money-and-improve-impact/)  
