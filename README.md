@@ -36,6 +36,8 @@
     + [《如何进行前端自动化测试》](https://github.com/fouber/blog/issues/7)
     + 其 GitHub 博客最近一次更新是在八个月前，考虑删掉
 + [徐飞/民工精髓](https://github.com/xufei/blog)（苏宁云商）
+    + [《2015前端组件化框架之路》](https://github.com/xufei/blog/issues/19) 
+    + [《未来Web应用的前端技术选型畅想》](https://github.com/xufei/blog/issues/24)
 + [Cat Chen](https://www.zhihu.com/people/catchen/answers)（Facebook）
 + [黄峰达](https://github.com/phodal/articles/issues)（ThoughtWorks）
     + [《程序员如何批量生产idea》](https://www.phodal.com/blog/how-to-create-ideas/)  
