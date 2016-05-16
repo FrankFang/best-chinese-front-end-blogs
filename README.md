@@ -26,6 +26,8 @@
     + [《Math.random()》](http://pinggod.com/2016/Math-random/)
     + [《React 组件的生命周期》](http://pinggod.com/2015/React-%E7%BB%84%E4%BB%B6%E7%9A%84%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/)
 + [题叶](https://segmentfault.com/u/jiyinyiyong/articles)（Teambition）
+    + [简聊首屏性能优化方案一些记录](https://segmentfault.com/a/1190000004287098) 
+    + [想象一下未来如何写代码和调试](https://segmentfault.com/a/1190000003840866)
 + [寸志](https://www.zhihu.com/people/stein.cun/posts)（陆金所）
 + [张云龙](https://github.com/fouber/blog)（UC） 
 + [徐飞/民工精髓](https://github.com/xufei/blog)（苏宁云商）
