@@ -8,9 +8,7 @@
     + [《读懂 ECMAScript 规格》](http://www.ruanyifeng.com/blog/2015/11/ecmascript-specification.html)
     + [《图解 Monad》](http://www.ruanyifeng.com/blog/2015/07/monad.html)
     + [《为什么Lisp语言如此先进？（译文）》](http://www.ruanyifeng.com/blog/2010/10/why_lisp_is_superior.html)
-+ [张鑫旭](http://www.zhangxinxu.com/wordpress/)（腾讯）
-    + [《基于原生HTML的UI组件开发》](http://www.zhangxinxu.com/wordpress/2016/01/development-of-ui-components-based-on-native-html/) 
-    + [《CSS深入理解vertical-align和line-height的基友关系》](http://www.zhangxinxu.com/wordpress/2015/08/css-deep-understand-vertical-align-and-line-height/)
+
 + [玉伯也叫射雕](https://github.com/lifesinger/blog/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)（蚂蚁金服）
     + [《Web 研发模式演变》](https://github.com/lifesinger/blog/issues/184)
     + [《jQuery 为什么优秀兼谈库与框架的设计》](https://github.com/lifesinger/blog/issues/114)
@@ -42,6 +40,9 @@
     + [《程序员如何批量生产idea》](https://www.phodal.com/blog/how-to-create-ideas/)  
     + [《程序员如何艺术的提升技术、影响力&赚钱》](https://www.phodal.com/blog/how-to-make-money-and-improve-impact/)  
     + [《程序员怎样才能写出一篇好的博客或者技术文章》](https://www.phodal.com/blog/programmer-how-to-write-a-good-article/)
++ [张鑫旭](http://www.zhangxinxu.com/wordpress/)（腾讯）
+    + [《基于原生HTML的UI组件开发》](http://www.zhangxinxu.com/wordpress/2016/01/development-of-ui-components-based-on-native-html/) 
+    + [《CSS深入理解vertical-align和line-height的基友关系》](http://www.zhangxinxu.com/wordpress/2015/08/css-deep-understand-vertical-align-and-line-height/)
 + [宅居](http://otakustay.com/)（百度）
     + [《使用ES6进行开发的思考》](http://otakustay.com/es6-develop-overview/) 
 + [愚人码头 ](http://top.css88.com/)（浙江搜道网络技术有限公司）
