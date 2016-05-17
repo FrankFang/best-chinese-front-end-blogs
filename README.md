@@ -51,6 +51,8 @@
     + [《本博客零散优化点汇总》](https://imququ.com/post/summary-of-my-blog-optimization.html) 
     + [《HTTP/2：新的机遇与挑战》](https://imququ.com/post/http2-new-opportunities-and-challenges.html)
 + [勾三股四/赵锦江](http://jiongks.name/)（淘宝）
+    + [《手机淘宝 CSS 实践启示录》](http://jiongks.name/slides/css-memos/)
+    + [《Vue.js 源码学习笔记》](http://jiongks.name/blog/vue-code-review/)
 + [蔡宝坚](http://caibaojian.com/)
 + [jinlong/Alon](http://jinlong.github.io/)（360）
 + [余廷钊](https://github.com/yutingzhao1991/blog/issues?q=is%3Aissue+is%3Aopen+sort%3Acreated-desc)（爱奇艺）
