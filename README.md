@@ -2,6 +2,8 @@
 
 收集优质的中文前端博客（[原帖](http://iwritejs.com/best-front-end-blogs/)）（还有[候选者](./Candidates.md)）
 
+注：公司信息来自网上公开资料，仅供参考，不保证准确性。
+
 **个人**
 
 + [阮一峰的网络日志](http://www.ruanyifeng.com/blog/javascript/)（蚂蚁金服）
