@@ -10,7 +10,6 @@
     + [《读懂 ECMAScript 规格》](http://www.ruanyifeng.com/blog/2015/11/ecmascript-specification.html)
     + [《图解 Monad》](http://www.ruanyifeng.com/blog/2015/07/monad.html)
     + [《为什么Lisp语言如此先进？（译文）》](http://www.ruanyifeng.com/blog/2010/10/why_lisp_is_superior.html)
-
 + [玉伯也叫射雕](https://github.com/lifesinger/blog/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)（蚂蚁金服）
     + [《Web 研发模式演变》](https://github.com/lifesinger/blog/issues/184)
     + [《jQuery 为什么优秀兼谈库与框架的设计》](https://github.com/lifesinger/blog/issues/114)
@@ -53,7 +52,6 @@
 + [勾三股四/赵锦江](http://jiongks.name/)（淘宝）
     + [《手机淘宝 CSS 实践启示录》](http://jiongks.name/slides/css-memos/)
     + [《Vue.js 源码学习笔记》](http://jiongks.name/blog/vue-code-review/)
-+ [jinlong/Alon](http://jinlong.github.io/)（360）
 + [余廷钊](https://github.com/yutingzhao1991/blog/issues?q=is%3Aissue+is%3Aopen+sort%3Acreated-desc)（爱奇艺）
 + [rank/跨界码农](http://weixin.sogou.com/gzh?openid=oIWsFtzIM8oC04y6AlnvdBYFAN6w&ext=p8lVKENENbme83PzyST9DJSjrfsnPch6BXFletWPUi1uaDSqnykrOtOJl3EEorY3)（美团）
 + [hacke2/蛋总](http://www.hacke2.cn/posts/)（阿里巴巴）
