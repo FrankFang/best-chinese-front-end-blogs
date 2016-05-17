@@ -52,7 +52,6 @@
 + [勾三股四/赵锦江](http://jiongks.name/)（淘宝）
     + [《手机淘宝 CSS 实践启示录》](http://jiongks.name/slides/css-memos/)
     + [《Vue.js 源码学习笔记》](http://jiongks.name/blog/vue-code-review/)
-+ [rank/跨界码农](http://weixin.sogou.com/gzh?openid=oIWsFtzIM8oC04y6AlnvdBYFAN6w&ext=p8lVKENENbme83PzyST9DJSjrfsnPch6BXFletWPUi1uaDSqnykrOtOJl3EEorY3)（美团）
 + [hacke2/蛋总](http://www.hacke2.cn/posts/)（阿里巴巴）
 + [阿烈](http://www.baidufe.com/)（美丽说）
 + [局中人](https://www.bh-lay.com/blog/)（百度上海）
