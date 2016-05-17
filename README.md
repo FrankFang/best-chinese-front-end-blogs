@@ -38,7 +38,7 @@
 + [徐飞/民工精髓](https://github.com/xufei/blog)（前苏宁云商、现 Teambition）
     + [《2015前端组件化框架之路》](https://github.com/xufei/blog/issues/19) 
     + [《未来Web应用的前端技术选型畅想》](https://github.com/xufei/blog/issues/24)
-+ [黄峰达](https://github.com/phodal/articles/issues)（ThoughtWorks）
++ [黄峰达/Phodal Huang](https://github.com/phodal/articles/issues)（ThoughtWorks）
     + [《程序员如何批量生产idea》](https://www.phodal.com/blog/how-to-create-ideas/)  
     + [《程序员如何艺术的提升技术、影响力&赚钱》](https://www.phodal.com/blog/how-to-make-money-and-improve-impact/)  
     + [《程序员怎样才能写出一篇好的博客或者技术文章》](https://www.phodal.com/blog/programmer-how-to-write-a-good-article/)
@@ -47,7 +47,6 @@
     + [《CSS深入理解vertical-align和line-height的基友关系》](http://www.zhangxinxu.com/wordpress/2015/08/css-deep-understand-vertical-align-and-line-height/)
 + [宅居](http://otakustay.com/)（百度）
     + [《使用ES6进行开发的思考》](http://otakustay.com/es6-develop-overview/) 
-+ [Phodal Huang](https://www.phodal.com/)（ThoughtWorks）
 + [屈光宇/JerryQu](https://imququ.com/archives.html)（360）
 + [justjavac/迷渡](http://justjavac.com/)（天津维基科技）
 + [勾三股四/赵锦江](http://jiongks.name/)（淘宝）
