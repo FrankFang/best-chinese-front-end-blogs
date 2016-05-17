@@ -48,6 +48,8 @@
 + [宅居](http://otakustay.com/)（百度）
     + [《使用ES6进行开发的思考》](http://otakustay.com/es6-develop-overview/) 
 + [屈光宇/JerryQu](https://imququ.com/archives.html)（360）
+    + [《本博客零散优化点汇总》](https://imququ.com/post/summary-of-my-blog-optimization.html) 
+    + [《HTTP/2：新的机遇与挑战》](https://imququ.com/post/http2-new-opportunities-and-challenges.html)
 + [justjavac/迷渡](http://justjavac.com/)（天津维基科技）
 + [勾三股四/赵锦江](http://jiongks.name/)（淘宝）
 + [蔡宝坚](http://caibaojian.com/)
