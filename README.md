@@ -47,7 +47,6 @@
     + [《CSS深入理解vertical-align和line-height的基友关系》](http://www.zhangxinxu.com/wordpress/2015/08/css-deep-understand-vertical-align-and-line-height/)
 + [宅居](http://otakustay.com/)（百度）
     + [《使用ES6进行开发的思考》](http://otakustay.com/es6-develop-overview/) 
-+ [愚人码头 ](http://top.css88.com/)（浙江搜道网络技术有限公司）
 + [Phodal Huang](https://www.phodal.com/)（ThoughtWorks）
 + [屈光宇/JerryQu](https://imququ.com/archives.html)（360）
 + [justjavac/迷渡](http://justjavac.com/)（天津维基科技）
