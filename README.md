@@ -37,6 +37,8 @@
 0. [徐飞/民工精髓](https://github.com/xufei/blog)（前苏宁云商、现 Teambition）
     + [《2015前端组件化框架之路》](https://github.com/xufei/blog/issues/19) 
     + [《未来Web应用的前端技术选型畅想》](https://github.com/xufei/blog/issues/24)
+0. [月影](https://www.h5jun.com/archives/)（360）
+    + [《Promise 与定时器》](https://www.h5jun.com/post/wait-promise.html)
 0. [黄峰达/Phodal Huang](https://github.com/phodal/articles/issues)（ThoughtWorks）
     + [《程序员如何批量生产idea》](https://www.phodal.com/blog/how-to-create-ideas/)  
     + [《程序员如何艺术的提升技术、影响力&赚钱》](https://www.phodal.com/blog/how-to-make-money-and-improve-impact/)  
@@ -62,7 +64,7 @@
 0. [TaobaoUED](http://taobaofed.org/categories/Web%E5%BC%80%E5%8F%91/)
     + [《近几年前端技术盘点以及 2016 年技术发展方向》](http://taobaofed.org/blog/2016/01/04/font-end-tech-inventory/)
     + [《记一次淘宝首页奇葩的渲染问题》](http://taobaofed.org/blog/2015/11/23/a-strange-bug-research-at-taobao-home-page/)
-+ [360奇舞团](http://www.75team.com/)
+0. [360奇舞团](http://www.75team.com/)
 + [AlloyTeam](http://www.alloyteam.com/)
 + [w3ctech](http://www.w3ctech.com/)
 + [w3c中国](http://www.chinaw3c.org/)
