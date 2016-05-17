@@ -56,6 +56,7 @@
     + [《在移动端上使用原生滑屏解决方案》](http://www.hacke2.cn/scroll-in-uc/)
     + [《我在jsbin里存的好东西》](http://www.hacke2.cn/share-jsbin/)
 + [局中人](https://www.bh-lay.com/blog/)（百度上海）
++ [李亚飞](http://yafeilee.me) (深圳自由职业)
 
 
 **团队**
