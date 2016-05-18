@@ -70,7 +70,6 @@
     + [李成熙《如何写一个webpack插件（一）》](https://github.com/lcxfs1991/blog/issues/1)
     + [《我就是要用CSS实现》](http://www.alloyteam.com/2016/01/let-see-css-world/)
 + [w3ctech](http://www.w3ctech.com/)
-+ [w3c中国](http://www.chinaw3c.org/)
 + [HTML5梦工厂](http://www.html5dw.com/)
 + [W3Help](http://w3help.org/zh-cn/kb/)
 + [前端观察](https://www.qianduan.net/)
