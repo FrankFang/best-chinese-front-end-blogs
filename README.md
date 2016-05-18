@@ -4,7 +4,7 @@
 
 注：公司信息来自网上公开资料，仅供参考，不保证准确性。
 
-**个人**
+**个人（控制在42个以内）**
 
 0. [阮一峰的网络日志](http://www.ruanyifeng.com/blog/javascript/)（蚂蚁金服）
     + [《读懂 ECMAScript 规格》](http://www.ruanyifeng.com/blog/2015/11/ecmascript-specification.html)
@@ -59,7 +59,7 @@
     + [《我在jsbin里存的好东西》](http://www.hacke2.cn/share-jsbin/)
 
 
-**团队**
+**团队（控制在16个以内）**
 
 0. [TaobaoUED](http://taobaofed.org/categories/Web%E5%BC%80%E5%8F%91/)
     + [《近几年前端技术盘点以及 2016 年技术发展方向》](http://taobaofed.org/blog/2016/01/04/font-end-tech-inventory/)
