@@ -7,4 +7,4 @@
 + [孟德森/demohi](https://boke.io)（Blued）
     + [帮他+1](https://github.com/FrankFang/best-chinese-front-end-blogs/pull/6)
 + [李靖/小胡子哥](http://barretlee.com/entry/)
-    + [帮他](https://github.com/FrankFang/best-chinese-front-end-blogs/issues/7)
+    + [帮他+1](https://github.com/FrankFang/best-chinese-front-end-blogs/issues/7)
