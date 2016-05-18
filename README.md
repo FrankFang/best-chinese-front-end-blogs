@@ -69,9 +69,8 @@
     + [李成熙《这是前端最好的时代——论前端的“三化”建设》](https://github.com/lcxfs1991/blog/issues/3)
     + [李成熙《如何写一个webpack插件（一）》](https://github.com/lcxfs1991/blog/issues/1)
     + [《我就是要用CSS实现》](http://www.alloyteam.com/2016/01/let-see-css-world/)
-+ [w3ctech](http://www.w3ctech.com/)
-+ [HTML5梦工厂](http://www.html5dw.com/)
-+ [W3Help](http://w3help.org/zh-cn/kb/)
++ [w3ctech](http://www.w3ctech.com/) - 文章收集网站
++ [W3Help](http://w3help.org/zh-cn/home/compatibility.html) - 内容看起来很久没更新，但是文章很有质量。 
 + [前端观察](https://www.qianduan.net/)
 + [w3cplus](http://www.w3cplus.com/)
 + [IMWeb](http://imweb.io/)
