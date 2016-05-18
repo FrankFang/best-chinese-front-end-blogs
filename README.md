@@ -54,10 +54,11 @@
 0. [勾三股四/赵锦江](http://jiongks.name/)（淘宝）
     + [《手机淘宝 CSS 实践启示录》](http://jiongks.name/slides/css-memos/)
     + [《Vue.js 源码学习笔记》](http://jiongks.name/blog/vue-code-review/)
+0. [神飞](https://www.qianduan.net/)
+    + [《QQ浏览器X5内核问题汇总》](https://www.qianduan.net/qqliu-lan-qi-x5nei-he-wen-ti-hui-zong/)
 0. [hacke2/蛋总](http://www.hacke2.cn/posts/)（阿里巴巴）
     + [《在移动端上使用原生滑屏解决方案》](http://www.hacke2.cn/scroll-in-uc/)
     + [《我在jsbin里存的好东西》](http://www.hacke2.cn/share-jsbin/)
-
 
 **团队（控制在16个以内）**
 
@@ -71,7 +72,6 @@
     + [《我就是要用CSS实现》](http://www.alloyteam.com/2016/01/let-see-css-world/)
 + [w3ctech](http://www.w3ctech.com/) - 文章收集网站
 + [W3Help](http://w3help.org/zh-cn/home/compatibility.html) - 内容看起来很久没更新，但是文章很有质量。 
-+ [前端观察](https://www.qianduan.net/)
 + [w3cplus](http://www.w3cplus.com/)
 + [IMWeb](http://imweb.io/)
 + [div.io](http://div.io/#/welcome)
