@@ -57,7 +57,7 @@
 0. [hacke2/蛋总](http://www.hacke2.cn/posts/)（阿里巴巴）
     + [《在移动端上使用原生滑屏解决方案》](http://www.hacke2.cn/scroll-in-uc/)
     + [《我在jsbin里存的好东西》](http://www.hacke2.cn/share-jsbin/)
-0. [孟德森/demohi](http://www.hacke2.cn/posts/)（Blued）
+0. [孟德森/demohi](https://boke.io)（Blued）
     + [《搞定immutable.js》](https://boke.io/immutable-js/)
     + [《基于gulp和webpack的前端工程化》](https://boke.io/ji-yu-gulphe-webpackde-qian-duan-gong-zuo-liu/)
 
