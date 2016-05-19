@@ -4,7 +4,7 @@
 
 注：公司信息来自网上公开资料，仅供参考，不保证准确性。
 
-**个人（控制在42个以内）**
+## 个人（控制在42个以内）
 
 0. [阮一峰的网络日志](http://www.ruanyifeng.com/blog/javascript/)（蚂蚁金服）
     + [《读懂 ECMAScript 规格》](http://www.ruanyifeng.com/blog/2015/11/ecmascript-specification.html)
@@ -60,7 +60,7 @@
     + [《在移动端上使用原生滑屏解决方案》](http://www.hacke2.cn/scroll-in-uc/)
     + [《我在jsbin里存的好东西》](http://www.hacke2.cn/share-jsbin/)
 
-**团队（控制在16个以内）**
+## 团队（控制在16个以内）
 
 大部分团队博客，都有拼凑感，质量良莠不齐，所以还是推荐大家关注个人博客。
 
@@ -76,7 +76,7 @@
 0. [IMWeb](http://imweb.io/)（腾讯）
 0. [360奇舞团](http://www.75team.com/)
 
-**其他**
+## 其他
 
 + [奇舞周刊](http://www.75team.com/weekly/)
 + [前端外刊评论](http://qianduan.guru/)
@@ -88,7 +88,7 @@
 
  
 
-**入选标准**
+## 入选标准
 
 1. 我觉得内容还不错的博客（目前是这样，你觉得有更好的标准可以说出来）。
 2. 不追潮流，React 火就天天写 React 入门、学习笔记，这样的博客就免了吧。
