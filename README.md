@@ -62,6 +62,8 @@
 
 **团队（控制在16个以内）**
 
+大部分团队博客，都有拼凑感，质量良莠不齐，所以还是推荐大家关注个人博客。
+
 0. [TaobaoUED](http://taobaofed.org/categories/Web%E5%BC%80%E5%8F%91/)
     + [《近几年前端技术盘点以及 2016 年技术发展方向》](http://taobaofed.org/blog/2016/01/04/font-end-tech-inventory/)
     + [《记一次淘宝首页奇葩的渲染问题》](http://taobaofed.org/blog/2015/11/23/a-strange-bug-research-at-taobao-home-page/)
