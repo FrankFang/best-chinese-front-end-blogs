@@ -59,6 +59,9 @@
 0. [hacke2/蛋总](http://www.hacke2.cn/posts/)（阿里巴巴）
     + [《在移动端上使用原生滑屏解决方案》](http://www.hacke2.cn/scroll-in-uc/)
     + [《我在jsbin里存的好东西》](http://www.hacke2.cn/share-jsbin/)
+0. [貘吃馍香的知乎回答](https://www.zhihu.com/people/tapir/answers)
+    + [《onclick = xxx这种赋值写法绑定事件的原理是什么？》](https://www.zhihu.com/question/43728074/answer/96396431)
+    + [《有哪些CSS标准是前端工程师很有必要研读的？》](https://www.zhihu.com/question/41191048/answer/90058208)
 
 ## 团队（控制在16个以内）
 
