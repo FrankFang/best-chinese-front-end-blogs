@@ -21,10 +21,6 @@
 0. [司徒正美](http://www.cnblogs.com/rubylouvre/)（去哪儿）
     + [《为什么虚拟DOM更优胜一筹》](http://www.cnblogs.com/rubylouvre/p/5012458.html) 
     + [《迷你MVVM框架avalon在兼容旧式IE做的努力》](http://www.cnblogs.com/rubylouvre/p/3598133.html)
-0. [李靖/小胡子哥](http://barretlee.com/entry/)
-    + [《H5 Crash 研究》](http://barretlee.com/blog/2016/05/30/h5-crash-research/)
-    + [《聊一聊淘宝首页和它背后的一套》](http://barretlee.com/blog/2016/06/02/thing-about-taobao-homepage/)
-    + [《信息无障碍不是献爱心更不是做公益慈善》](http://barretlee.com/blog/2016/02/28/step-in-aria/)
 0. [PING4GOD](http://pinggod.com/)（美团）
     + [《Math.random()》](http://pinggod.com/2016/Math-random/)
     + [《React 组件的生命周期》](http://pinggod.com/2015/React-%E7%BB%84%E4%BB%B6%E7%9A%84%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/)
@@ -63,6 +59,10 @@
 0. [hacke2/蛋总](http://www.hacke2.cn/posts/)（阿里巴巴）
     + [《在移动端上使用原生滑屏解决方案》](http://www.hacke2.cn/scroll-in-uc/)
     + [《我在jsbin里存的好东西》](http://www.hacke2.cn/share-jsbin/)
+0. [李靖/小胡子哥](http://barretlee.com/entry/)（阿里巴巴，1992年生）
+    + [《H5 Crash 研究》](http://barretlee.com/blog/2016/05/30/h5-crash-research/)
+    + [《聊一聊淘宝首页和它背后的一套》](http://barretlee.com/blog/2016/06/02/thing-about-taobao-homepage/)
+    + [《信息无障碍不是献爱心更不是做公益慈善》](http://barretlee.com/blog/2016/02/28/step-in-aria/)
 0. [貘吃馍香的知乎回答](https://www.zhihu.com/people/tapir/answers)
     + [《onclick = xxx这种赋值写法绑定事件的原理是什么？》](https://www.zhihu.com/question/43728074/answer/96396431)
     + [《有哪些CSS标准是前端工程师很有必要研读的？》](https://www.zhihu.com/question/41191048/answer/90058208)
