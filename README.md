@@ -66,6 +66,9 @@
 0. [貘吃馍香的知乎回答](https://www.zhihu.com/people/tapir/answers)
     + [《onclick = xxx这种赋值写法绑定事件的原理是什么？》](https://www.zhihu.com/question/43728074/answer/96396431)
     + [《有哪些CSS标准是前端工程师很有必要研读的？》](https://www.zhihu.com/question/41191048/answer/90058208)
+0. [邱俊涛](http://icodeit.org/blog/archives/)（ThoughtWorks）
+    + [《为故障和失败做设计》](http://icodeit.org/2016/05/design-for-failure/)
+    + [《技术的执念》](http://icodeit.org/2016/02/pitfall-of-technology/)
 
 ## 团队（控制在16个以内）
 
