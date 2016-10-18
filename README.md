@@ -40,6 +40,7 @@
     + [《2015前端组件化框架之路》](https://github.com/xufei/blog/issues/19) 
     + [《未来Web应用的前端技术选型畅想》](https://github.com/xufei/blog/issues/24)
 0. [月影](https://www.h5jun.com/archives/)（360）
+    + [《【译】为什么我要说 JavaScript 对象字面量很酷？》](https://www.h5jun.com/post/why-object-literals-in-javascript-are-cool.html)
     + [《Promise 与定时器》](https://www.h5jun.com/post/wait-promise.html)
 0. [黄峰达/Phodal Huang](https://github.com/phodal/articles/issues)（ThoughtWorks）
     + [《程序员如何批量生产idea》](https://www.phodal.com/blog/how-to-create-ideas/)  
