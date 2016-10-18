@@ -69,6 +69,9 @@
 0. [邱俊涛](http://icodeit.org/blog/archives/)（ThoughtWorks）
     + [《为故障和失败做设计》](http://icodeit.org/2016/05/design-for-failure/)
     + [《技术的执念》](http://icodeit.org/2016/02/pitfall-of-technology/)
+0. [李靖](http://barretlee.com/blog/categories/%E5%89%8D%E7%AB%AF%E6%9D%82%E7%83%A9/)（阿里巴巴）
+    + [《工作五年，后面四年重复着第一年的活儿？》](http://barretlee.com/blog/2016/07/21/donnot-repeat-yourself/)
+    
 
 ## 团队（控制在16个以内）
 
