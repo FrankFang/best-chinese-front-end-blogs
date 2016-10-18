@@ -63,6 +63,7 @@
     + [《在移动端上使用原生滑屏解决方案》](http://www.hacke2.cn/scroll-in-uc/)
     + [《我在jsbin里存的好东西》](http://www.hacke2.cn/share-jsbin/)
 0. [李靖/小胡子哥](http://barretlee.com/entry/)（阿里巴巴，1992年生）
+    + [《工作五年，后面四年重复着第一年的活儿？》](http://barretlee.com/blog/2016/07/21/donnot-repeat-yourself/)
     + [《H5 Crash 研究》](http://barretlee.com/blog/2016/05/30/h5-crash-research/)
     + [《聊一聊淘宝首页和它背后的一套》](http://barretlee.com/blog/2016/06/02/thing-about-taobao-homepage/)
     + [《信息无障碍不是献爱心更不是做公益慈善》](http://barretlee.com/blog/2016/02/28/step-in-aria/)
@@ -72,8 +73,7 @@
 0. [邱俊涛](http://icodeit.org/blog/archives/)（ThoughtWorks）
     + [《为故障和失败做设计》](http://icodeit.org/2016/05/design-for-failure/)
     + [《技术的执念》](http://icodeit.org/2016/02/pitfall-of-technology/)
-0. [李靖](http://barretlee.com/blog/categories/%E5%89%8D%E7%AB%AF%E6%9D%82%E7%83%A9/)（阿里巴巴）
-    + [《工作五年，后面四年重复着第一年的活儿？》](http://barretlee.com/blog/2016/07/21/donnot-repeat-yourself/)
+
     
 
 ## 团队（控制在16个以内）
