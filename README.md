@@ -31,7 +31,7 @@
 0. [寸志](https://www.zhihu.com/people/stein.cun/posts)（陆金所）
     + [《为什么整个互联网行业都缺前端工程师》](https://zhuanlan.zhihu.com/p/20598089)
     + [《与外刊君一起学习2016前端开发者大会 PPT》](https://zhuanlan.zhihu.com/p/20662724)
-0. [张云龙](https://github.com/fouber/blog)（UC） 
+0. [张云龙](https://github.com/fouber/blog)（前UC，现全民直播CTO） 
     + [《前端工程与性能优化》](https://github.com/fouber/blog/issues/3) 
     + [《如何进行前端自动化测试》](https://github.com/fouber/blog/issues/7)
     + 其 GitHub 博客最近一次更新是在八个月前，考虑删掉
