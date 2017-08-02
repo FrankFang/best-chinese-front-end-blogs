@@ -94,6 +94,7 @@
     + [李成熙《如何写一个webpack插件（一）》](https://github.com/lcxfs1991/blog/issues/1)
     + [《我就是要用CSS实现》](http://www.alloyteam.com/2016/01/let-see-css-world/)
 0. [饿了么大前端](https://fe.ele.me/)
+   + [饿了么的 PWA 升级实践](https://zhuanlan.zhihu.com/p/27853228)
    + [position: sticky 在移动端的应用与实践](https://fe.ele.me/position-sticky-zai-yi-dong-duan-de-ying-yong-yu-shi-jian/)
 0. [IMWeb](http://imweb.io/)（腾讯）
 0. [360奇舞团](http://www.75team.com/)
