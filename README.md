@@ -8,8 +8,7 @@
 
 0. [阮一峰的网络日志](http://www.ruanyifeng.com/blog/javascript/)（蚂蚁金服）
     + [《读懂 ECMAScript 规格》](http://www.ruanyifeng.com/blog/2015/11/ecmascript-specification.html)
-    + [《图解 Monad》](http://www.ruanyifeng.com/blog/2015/07/monad.html)
-    + [《为什么Lisp语言如此先进？（译文）》](http://www.ruanyifeng.com/blog/2010/10/why_lisp_is_superior.html)
+    + [《JavaScript 内存泄漏教程》](http://www.ruanyifeng.com/blog/2017/04/memory-leak.html)
 0. [玉伯也叫射雕](https://github.com/lifesinger/blog/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)（蚂蚁金服）
     + [《Web 研发模式演变》](https://github.com/lifesinger/blog/issues/184)
     + [《jQuery 为什么优秀兼谈库与框架的设计》](https://github.com/lifesinger/blog/issues/114)
