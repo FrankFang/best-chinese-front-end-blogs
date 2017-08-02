@@ -53,7 +53,8 @@
     + [《CSS深入理解vertical-align和line-height的基友关系》](http://www.zhangxinxu.com/wordpress/2015/08/css-deep-understand-vertical-align-and-line-height/)
 0. [宅居](http://otakustay.com/)（百度）
     + [《使用ES6进行开发的思考》](http://otakustay.com/es6-develop-overview/) 
-0. [屈光宇/JerryQu](https://imququ.com/archives.html)（360）
+0. [屈光宇/JerryQu](https://imququ.com/post/series.html)（360）
+    + [《HTTPS 常见部署问题及解决方案》](https://imququ.com/post/troubleshooting-https.html)
     + [《本博客零散优化点汇总》](https://imququ.com/post/summary-of-my-blog-optimization.html) 
     + [《HTTP/2：新的机遇与挑战》](https://imququ.com/post/http2-new-opportunities-and-challenges.html)
 0. [勾三股四/赵锦江](http://jiongks.name/)（淘宝）
