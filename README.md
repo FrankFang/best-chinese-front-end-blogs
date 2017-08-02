@@ -28,7 +28,7 @@
 0. [题叶](https://segmentfault.com/u/jiyinyiyong/articles)（饿了么、前 Teambition）
     + [《简聊首屏性能优化方案一些记录》](https://segmentfault.com/a/1190000004287098) 
     + [《想象一下未来如何写代码和调试》](https://segmentfault.com/a/1190000003840866)
-0. [寸志](https://www.zhihu.com/people/stein.cun/posts)（陆金所）
+0. [寸志](https://www.zhihu.com/people/stein.cun/posts)（陆金所，前Teambition）
     + [《为什么整个互联网行业都缺前端工程师》](https://zhuanlan.zhihu.com/p/20598089)
     + [《与外刊君一起学习2016前端开发者大会 PPT》](https://zhuanlan.zhihu.com/p/20662724)
 0. [张云龙](https://github.com/fouber/blog)（前UC，现全民直播CTO） 
