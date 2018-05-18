@@ -26,9 +26,6 @@
     + [《mobx源码解读》](http://www.cnblogs.com/rubylouvre/p/6058045.html)
     + [《为什么虚拟DOM更优胜一筹》](http://www.cnblogs.com/rubylouvre/p/5012458.html) 
     + [《迷你MVVM框架avalon在兼容旧式IE做的努力》](http://www.cnblogs.com/rubylouvre/p/3598133.html)
-0. [PING4GOD](http://pinggod.com/)（美团）
-    + [《Math.random()》](http://pinggod.com/2016/Math-random/)
-    + [《React 组件的生命周期》](http://pinggod.com/2015/React-%E7%BB%84%E4%BB%B6%E7%9A%84%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/)
 0. [题叶](https://segmentfault.com/u/jiyinyiyong/articles)（饿了么、前 Teambition）
     + [《简聊首屏性能优化方案一些记录》](https://segmentfault.com/a/1190000004287098) 
     + [《想象一下未来如何写代码和调试》](https://segmentfault.com/a/1190000003840866)
