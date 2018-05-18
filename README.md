@@ -32,10 +32,6 @@
 0. [寸志](https://www.zhihu.com/people/stein.cun/posts)（陆金所）
     + [《为什么整个互联网行业都缺前端工程师》](https://zhuanlan.zhihu.com/p/20598089)
     + [《与外刊君一起学习2016前端开发者大会 PPT》](https://zhuanlan.zhihu.com/p/20662724)
-0. [张云龙](https://github.com/fouber/blog)（前UC，现全民直播CTO） 
-    + [《前端工程与性能优化》](https://github.com/fouber/blog/issues/3) 
-    + [《如何进行前端自动化测试》](https://github.com/fouber/blog/issues/7)
-    + 其 GitHub 博客最近一次更新是在八个月前，考虑删掉
 0. [徐飞/民工精髓](https://github.com/xufei/blog)（前苏宁云商、现 Teambition）
     + [《对当前单页应用的技术栈思考》](https://github.com/xufei/blog/issues/37)
     + [《2015前端组件化框架之路》](https://github.com/xufei/blog/issues/19) 
@@ -48,9 +44,7 @@
     + [《程序员怎样才能写出一篇好的博客或者技术文章》](https://www.phodal.com/blog/programmer-how-to-write-a-good-article/)
 0. [张鑫旭](http://www.zhangxinxu.com/wordpress/)（腾讯）
     + [《基于原生HTML的UI组件开发》](http://www.zhangxinxu.com/wordpress/2016/01/development-of-ui-components-based-on-native-html/) 
-    + [《CSS深入理解vertical-align和line-height的基友关系》](http://www.zhangxinxu.com/wordpress/2015/08/css-deep-understand-vertical-align-and-line-height/)
-0. [宅居](http://otakustay.com/)（百度）
-    + [《使用ES6进行开发的思考》](http://otakustay.com/es6-develop-overview/) 
+    + [《CSS深入理解vertical-align和line-height的基友关系》](http://www.zhangxinxu.com/wordpress/2015/08/css-deep-understand-vertical-align-and-line-height/) 
 0. [屈光宇/JerryQu](https://imququ.com/post/series.html)（360）
     + [《HTTPS 常见部署问题及解决方案》](https://imququ.com/post/troubleshooting-https.html)
     + [《本博客零散优化点汇总》](https://imququ.com/post/summary-of-my-blog-optimization.html) 
