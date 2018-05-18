@@ -45,8 +45,8 @@
 0. [张鑫旭](http://www.zhangxinxu.com/wordpress/)（腾讯）
     + [《基于原生HTML的UI组件开发》](http://www.zhangxinxu.com/wordpress/2016/01/development-of-ui-components-based-on-native-html/) 
     + [《CSS深入理解vertical-align和line-height的基友关系》](http://www.zhangxinxu.com/wordpress/2015/08/css-deep-understand-vertical-align-and-line-height/) 
-0. [屈光宇/JerryQu](https://imququ.com/post/series.html)（360）
-    + [《HTTPS 常见部署问题及解决方案》](https://imququ.com/post/troubleshooting-https.html)
+0. [屈光宇/JerryQu](https://imququ.com/post/series.html)（360） —— 半年未更新
+    + [《HTTPS 常见部署问题及解决方案》](https://imququ.com/post/troubleshooting-https.html)
     + [《本博客零散优化点汇总》](https://imququ.com/post/summary-of-my-blog-optimization.html) 
     + [《HTTP/2：新的机遇与挑战》](https://imququ.com/post/http2-new-opportunities-and-challenges.html)
 0. [勾三股四/赵锦江](http://jiongks.name/)（淘宝）
