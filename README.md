@@ -47,7 +47,7 @@
 0. [勾三股四/赵锦江](http://jiongks.name/)（淘宝）
     + [《手机淘宝 CSS 实践启示录》](http://jiongks.name/slides/css-memos/)
     + [《Vue.js 源码学习笔记》](http://jiongks.name/blog/vue-code-review/)
-0. [李靖/小胡子哥](http://barretlee.com/entry/)（阿里巴巴，1992年生）
+0. [李靖/小胡子哥](http://barretlee.com/entry/)（阿里巴巴）
     + [《工作五年，后面四年重复着第一年的活儿？》](http://barretlee.com/blog/2016/07/21/donnot-repeat-yourself/)
     + [《H5 Crash 研究》](http://barretlee.com/blog/2016/05/30/h5-crash-research/)
     + [《聊一聊淘宝首页和它背后的一套》](http://barretlee.com/blog/2016/06/02/thing-about-taobao-homepage/)
