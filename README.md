@@ -46,8 +46,6 @@
     + [《程序员如何批量生产idea》](https://www.phodal.com/blog/how-to-create-ideas/)  
     + [《程序员如何艺术的提升技术、影响力&赚钱》](https://www.phodal.com/blog/how-to-make-money-and-improve-impact/)  
     + [《程序员怎样才能写出一篇好的博客或者技术文章》](https://www.phodal.com/blog/programmer-how-to-write-a-good-article/)
-0. [xcatliu](http://blog.xcatliu.com/tags/JavaScript/)（微软）
-    + [我写的第一本书《TypeScript 入门教程》](http://blog.xcatliu.com/2017/01/17/my_first_book/)
 0. [张鑫旭](http://www.zhangxinxu.com/wordpress/)（腾讯）
     + [《基于原生HTML的UI组件开发》](http://www.zhangxinxu.com/wordpress/2016/01/development-of-ui-components-based-on-native-html/) 
     + [《CSS深入理解vertical-align和line-height的基友关系》](http://www.zhangxinxu.com/wordpress/2015/08/css-deep-understand-vertical-align-and-line-height/)
