@@ -18,6 +18,8 @@
     + [《JavaScript — The World’s Best Programming Language》](http://johnhax.net/2015/js-the-best/)
     + [《参加第十届D2前端技术论坛，你有什么收获？》](https://www.zhihu.com/question/38637676/answer/77889487)
     + [《jQuery会过时吗？》](https://www.zhihu.com/question/34892985/answer/60466608)
+0. [太狼](https://blog.lynvv.xyz/)
+    + [《Hello RxJS》](https://blog.lynvv.xyz/2016/10/31/Hello_Rx/)
 0. [司徒正美](http://www.cnblogs.com/rubylouvre/)（去哪儿）
     + [《mobx源码解读》](http://www.cnblogs.com/rubylouvre/p/6058045.html)
     + [《为什么虚拟DOM更优胜一筹》](http://www.cnblogs.com/rubylouvre/p/5012458.html) 
