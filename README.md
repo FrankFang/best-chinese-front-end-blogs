@@ -44,8 +44,6 @@
     + [《2015前端组件化框架之路》](https://github.com/xufei/blog/issues/19) 
     + [《未来Web应用的前端技术选型畅想》](https://github.com/xufei/blog/issues/24)
 0. [月影](https://www.h5jun.com/archives/)（360）——博客九个月没有更新，[微博链接](https://weibo.com/silverna)
-    + [《设计 Timeline 时间轴来更精确地控制动画》](https://www.h5jun.com/post/timeline-for-animations.html)
-    + [《Promise 与定时器》](https://www.h5jun.com/post/wait-promise.html)
 0. [黄峰达/Phodal Huang](https://github.com/phodal/articles/issues)（ThoughtWorks）
     + [《一个前端程序员的一个月原生 Android 开发体》](https://github.com/phodal/articles/issues/48)
     + [《程序员如何批量生产idea》](https://www.phodal.com/blog/how-to-create-ideas/)  
