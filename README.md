@@ -9,11 +9,6 @@
 0. [阮一峰的网络日志](http://www.ruanyifeng.com/blog/javascript/)（蚂蚁金服）
     + [《读懂 ECMAScript 规格》](http://www.ruanyifeng.com/blog/2015/11/ecmascript-specification.html)
     + [《JavaScript 内存泄漏教程》](http://www.ruanyifeng.com/blog/2017/04/memory-leak.html)
-0. [玉伯也叫射雕](https://github.com/lifesinger/blog/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)（蚂蚁金服）
-    + [《Web 研发模式演变》](https://github.com/lifesinger/blog/issues/184)
-    + [《jQuery 为什么优秀兼谈库与框架的设计》](https://github.com/lifesinger/blog/issues/114)
-    + [《阿里前端的困局与突围》](https://github.com/lifesinger/blog/issues/141)
-    + 九个月没有更新，考虑去掉博客链接。最新动向可以看他的[微博](http://weibo.com/u/1748374882)。
 0. [贺师俊/Hax](https://github.com/hax/hax.github.com/issues)（百姓网）
     + [《JavaScript — The World’s Best Programming Language》](http://johnhax.net/2015/js-the-best/)
     + [《参加第十届D2前端技术论坛，你有什么收获？》](https://www.zhihu.com/question/38637676/answer/77889487)
