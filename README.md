@@ -104,7 +104,7 @@
 
 + [奇舞周刊](http://www.75team.com/weekly/)
 + [百度 FEX 周刊](http://fex.baidu.com/weekly/)
-+ [前端外刊评论](http://qianduan.guru/)
++ [前端外刊评论](http://qianduan.group/)
 + [Awesomes.cn](https://www.awesomes.cn/) - 「 也许是最好的开源前端库、框架和插件集合 」
 + [w3ctech](http://www.w3ctech.com/) - 文章聚合网站
 + [W3Help](http://w3help.org/zh-cn/home/compatibility.html) - 内容看起来很久没更新，但是文章很有质量。 
