@@ -97,7 +97,6 @@
 + [Awesomes.cn](https://www.awesomes.cn/) - 「 也许是最好的开源前端库、框架和插件集合 」
 + [w3ctech](http://www.w3ctech.com/) - 文章聚合网站
 + [W3Help](http://w3help.org/zh-cn/home/compatibility.html) - 内容看起来很久没更新，但是文章很有质量。 
-+ [div.io](http://div.io/#/welcome) - 文章聚合网站
 + [w3cplus](http://www.w3cplus.com/) - 文章聚合网站
 
  
