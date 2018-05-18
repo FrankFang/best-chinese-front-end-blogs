@@ -79,7 +79,7 @@
     + [《为故障和失败做设计》](http://icodeit.org/2016/05/design-for-failure/)
     + [《技术的执念》](http://icodeit.org/2016/02/pitfall-of-technology/)
 0. [神飞](https://www.qianduan.net/) —— 去年十月起未更新
-     + [《QQ浏览器X5内核问题汇总》](https://www.qianduan.net/qqliu-lan-qi-x5nei-he-wen-ti-hui-zong/)
+    + [《QQ浏览器X5内核问题汇总》](https://www.qianduan.net/qqliu-lan-qi-x5nei-he-wen-ti-hui-zong/)
 
     
 
