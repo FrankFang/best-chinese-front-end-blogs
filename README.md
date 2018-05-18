@@ -90,18 +90,20 @@
 0. [TaobaoUED](http://taobaofed.org/categories/Web%E5%BC%80%E5%8F%91/)
     + [《近几年前端技术盘点以及 2016 年技术发展方向》](http://taobaofed.org/blog/2016/01/04/font-end-tech-inventory/)
     + [《记一次淘宝首页奇葩的渲染问题》](http://taobaofed.org/blog/2015/11/23/a-strange-bug-research-at-taobao-home-page/)
-0. [百度EFE（Excellent FrontEnd）](http://efe.baidu.com/)
-    + [《回归CSS标准之Float》](http://efe.baidu.com/blog/float/)
+
 0. [AlloyTeam](http://www.alloyteam.com/)（腾讯）
     + [李成熙《这是前端最好的时代——论前端的“三化”建设》](https://github.com/lcxfs1991/blog/issues/3)
     + [李成熙《如何写一个webpack插件（一）》](https://github.com/lcxfs1991/blog/issues/1)
     + [《我就是要用CSS实现》](http://www.alloyteam.com/2016/01/let-see-css-world/)
+0. [有赞前端](https://tech.youzan.com/tag/front-end/)
 0. [饿了么大前端](https://fe.ele.me/)
    + [饿了么的 PWA 升级实践](https://zhuanlan.zhihu.com/p/27853228)
    + [position: sticky 在移动端的应用与实践](https://fe.ele.me/position-sticky-zai-yi-dong-duan-de-ying-yong-yu-shi-jian/)
 0. [IMWeb](http://imweb.io/)（腾讯）
-0. [360奇舞团](http://www.75team.com/)
 0. [大搜车](https://blog.souche.com/)
+0. [百度EFE（Excellent FrontEnd）](http://efe.baidu.com/) —— 半年未更新
+     + [《回归CSS标准之Float》](http://efe.baidu.com/blog/float/)
+0. [360奇舞团](http://www.75team.com/) —— 今年更新了两篇
 
 ## 其他
 
