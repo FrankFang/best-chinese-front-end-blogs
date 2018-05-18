@@ -57,7 +57,7 @@
     + [《H5 Crash 研究》](http://barretlee.com/blog/2016/05/30/h5-crash-research/)
     + [《聊一聊淘宝首页和它背后的一套》](http://barretlee.com/blog/2016/06/02/thing-about-taobao-homepage/)
     + [《信息无障碍不是献爱心更不是做公益慈善》](http://barretlee.com/blog/2016/02/28/step-in-aria/)
-0. [貘吃馍香的知乎回答](https://www.zhihu.com/people/tapir/answers)
+0. [貘吃馍香的知乎回答](https://www.zhihu.com/people/tapir/answers/by_votes)
     + [《onclick = xxx这种赋值写法绑定事件的原理是什么？》](https://www.zhihu.com/question/43728074/answer/96396431)
     + [《有哪些CSS标准是前端工程师很有必要研读的？》](https://www.zhihu.com/question/41191048/answer/90058208)
 0. [邱俊涛](http://icodeit.org/blog/archives/)（ThoughtWorks）
