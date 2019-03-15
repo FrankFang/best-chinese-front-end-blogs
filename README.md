@@ -78,6 +78,8 @@
     + [李成熙《这是前端最好的时代——论前端的“三化”建设》](https://github.com/lcxfs1991/blog/issues/3)
     + [李成熙《如何写一个webpack插件（一）》](https://github.com/lcxfs1991/blog/issues/1)
     + [《我就是要用CSS实现》](http://www.alloyteam.com/2016/01/let-see-css-world/)
+0. [京东JDC](https://jdc.jd.com)（京东）
+    + [京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)
 0. [有赞前端](https://tech.youzan.com/tag/front-end/)
 0. [饿了么大前端](https://fe.ele.me/)
    + [饿了么的 PWA 升级实践](https://zhuanlan.zhihu.com/p/27853228)
