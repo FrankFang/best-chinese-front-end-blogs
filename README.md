@@ -6,6 +6,8 @@
 
 ## 个人（控制在42个以内）
 
+0. [冴羽的博客](https://github.com/mqyqingfeng/Blog)
+    既适合新手，又有一定深度
 0. [阮一峰的网络日志](http://www.ruanyifeng.com/blog/javascript/)（蚂蚁金服）
     + [《读懂 ECMAScript 规格》](http://www.ruanyifeng.com/blog/2015/11/ecmascript-specification.html)
     + [《JavaScript 内存泄漏教程》](http://www.ruanyifeng.com/blog/2017/04/memory-leak.html)
