@@ -19,7 +19,7 @@
     + [《React 16 架构研究记录》](https://zhuanlan.zhihu.com/p/36926155)
 0. [太狼](https://blog.lynvv.xyz/)
     + [《Hello RxJS》](https://blog.lynvv.xyz/2016/10/31/Hello_Rx/)
-0. [司徒正美](http://www.cnblogs.com/rubylouvre/)（去哪儿）
+0. [司徒正美](http://www.cnblogs.com/rubylouvre/)（已故，缅怀）
     + [《mobx源码解读》](http://www.cnblogs.com/rubylouvre/p/6058045.html)
     + [《为什么虚拟DOM更优胜一筹》](http://www.cnblogs.com/rubylouvre/p/5012458.html) 
     + [《迷你MVVM框架avalon在兼容旧式IE做的努力》](http://www.cnblogs.com/rubylouvre/p/3598133.html)
