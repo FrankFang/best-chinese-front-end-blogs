@@ -10,8 +10,7 @@
 0. [冴羽的博客](https://github.com/mqyqingfeng/Blog)
 0. [方晓](https://www.zhihu.com/people/fang-xiao-93/posts) 
 0. [黄峰达/Phodal Huang](https://www.zhihu.com/people/phodal/posts) 
-0. [张鑫旭](http://www.zhangxinxu.com/wordpress/)
-0. [杨健](https://www.zhihu.com/people/hardfist/posts)
+0. [张鑫旭](http://www.zhangxinxu.com/wordpress/) 
 0. [阿宝](https://juejin.cn/user/764915822103079/posts)
     
 
