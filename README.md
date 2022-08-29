@@ -5,6 +5,7 @@
 注：博主的公司信息来自网上公开资料，仅供参考，不保证准确性。
 
 ## 个人（控制在42个以内）
+0. [antfu](https://antfu.me/posts)
 0. [蚊子](https://www.xiabingbao.com/)
 0. [冴羽的博客](https://github.com/mqyqingfeng/Blog)
 0. [方晓](https://www.zhihu.com/people/fang-xiao-93/posts) 
