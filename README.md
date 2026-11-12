@@ -12,6 +12,7 @@
 0. [黄峰达/Phodal Huang](https://www.zhihu.com/people/phodal/posts) 
 0. [张鑫旭](http://www.zhangxinxu.com/wordpress/) 
 0. [阿宝](https://juejin.cn/user/764915822103079/posts)
+0. [Exia Blog](https://exia.de5.net/)
     
 
 ## 团队（控制在16个以内）
